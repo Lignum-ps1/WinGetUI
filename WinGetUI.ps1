@@ -1,6 +1,6 @@
 ﻿# Import Module WinGet
 
-Import-Module Microsoft.WinGet.Client -ErrorAction SilentlyContinue
+Import-Module -Name Microsoft.WinGet.Client -ErrorAction SilentlyContinue
 
 ## Install Module WinGet if not yet installed
 
